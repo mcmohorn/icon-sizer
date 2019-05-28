@@ -4,7 +4,7 @@ Resize a square png into common App Icon sizes.  Download icons individually, or
 This is useful when you want to resize a large square image to the various app icon sizes required for iOS development.
 
 # Instructions
-Inside the cloned repo, run `npm install && npm start` to install dependencies and start the app.
+Run `npm install && npm start` to install dependencies and start the app.
 
 
 
