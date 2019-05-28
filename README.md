@@ -6,6 +6,6 @@ This is useful when you want to resize a large square image to the various app i
 # Instructions
 Run `npm install && npm start` to install dependencies and start the app.
 
-
-
 ![The Icon Sizer App](public/screenshot1.png?raw=true "Example Screenshot")
+
+Keep scrolling for even smaller sizes.
